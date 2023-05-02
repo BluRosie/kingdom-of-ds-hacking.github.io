@@ -1,4 +1,4 @@
-# Town Map Editing - HGSS
+# Town Map Editing <sup>*(HGSS)*</sup>
 > All research for this guide & the writing was done by [BluRose](https://github.com/BluRosie).
 
 The Town Map in Heart Gold is located solely within the Poké Gear, a departure from some previous games where the Town Map is a key item that gets a very large area to mess around on.  Because of this, the region is actually relatively cramped to start out with--Kanto makes a few sacrifices to nicely fit into the 32x32 blocks that the game uses--every square that the town map has corresponds to a 32x32 grid block, hence the reason that glitches like tweaking work in Platinum to go out of bounds and access the islands for Shaymin, Darkrai, and Cresselia.
